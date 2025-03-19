@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai"
 
-const genAI = new GoogleGenerativeAI("AIzaSyCAtRvBoHH7mTpF7w5xS8ABOJe9nFJRRvo")
+const genAI = new GoogleGenerativeAI("")
 
 // Define interfaces
 interface Question {
